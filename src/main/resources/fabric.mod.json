@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "anticheat",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "CSAC",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "EnderC00kiez"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://enderc00kiez.xyz/",
+    "sources": "https://github.com/EnderC00kiez/anticheat"
   },
 
   "license": "CC0-1.0",
@@ -30,6 +30,6 @@
     "java": ">=17"
   },
   "suggests": {
-    "another-mod": "*"
+    "get-a-life": "*"
   }
 }
