@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Build
+          name: "Build"
           command: "./gradlew build"
 
 # Invoke jobs via workflows
