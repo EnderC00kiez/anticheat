@@ -16,6 +16,9 @@ public class AnticheatClient implements ClientModInitializer {
         if (FabricLoader.getInstance().isModLoaded("seedcrackerx")) {
             throw new IllegalStateException("Seedcracker is loaded, please remove it.");
         }
+        if (FabricLoader.getInstance().isModLoaded("mathax")) {
+            throw new IllegalStateException("Mathax is loaded, please remove it.");
+        }
     }
 
 }
