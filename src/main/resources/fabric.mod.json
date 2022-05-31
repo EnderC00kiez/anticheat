@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "xyz.enderc00kiez.anticheat.Anticheat"
+    ],
+    "client": [
+      "xyz.enderc00kiez.anticheat.AnticheatClient"
     ]
   },
 
