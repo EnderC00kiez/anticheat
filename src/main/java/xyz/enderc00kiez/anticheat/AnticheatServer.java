@@ -5,7 +5,7 @@ import net.fabricmc.api.DedicatedServerModInitializer;
 
 public class AnticheatServer implements DedicatedServerModInitializer {
     @Override
-    public void onInitialize() {
+    public void onInitializeDedicatedServer() {
         System.out.println("Enabled CSAC (server-side). All clients are forced to use it when joining your server.");
     }
 }
