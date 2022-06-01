@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# c lient isdyre antiCHEART!
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+clikc one teh chek marek! !
+tegbn clik detales
+clike artifactes
+clicke anticheat-x.x.x.jar
+yuo downe !
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the CC0 license.
