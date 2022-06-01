@@ -19,6 +19,9 @@ public class AnticheatClient implements ClientModInitializer {
         if (FabricLoader.getInstance().isModLoaded("mathax")) {
             throw new IllegalStateException("Mathax is loaded, please remove it.");
         }
+        if (FabricLoader.getInstance().isModLoaded("wurst")) {
+            throw new IllegalStateException("Wurst is loaded, please remove it.");
+        }
     }
 
 }
