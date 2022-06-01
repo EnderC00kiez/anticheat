@@ -2,7 +2,7 @@
 
 ## Setup
 
-clikc one teh aktionz buton
+clikc one teh chek marek! !
 
 ## License
 
