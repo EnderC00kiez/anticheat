@@ -23,6 +23,9 @@
     ],
     "client": [
       "xyz.enderc00kiez.anticheat.AnticheatClient"
+    ],
+    "server": [
+      "xyz.enderc00kiez.anticheat.AnticheatServer"
     ]
   },
 
